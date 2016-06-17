@@ -1,0 +1,4 @@
+# DropDownEditText
+含下拉列表的Android的EditText，可存储删除下拉列表的数据
+
+运行图片存储在pic_running文件夾下
