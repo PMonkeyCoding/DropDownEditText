@@ -1,0 +1,27 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="50dp"
+    android:background="@null"
+    >
+    <TextView
+        android:id="@+id/list_text"
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:text="@string/app_name" 
+        android:layout_marginRight="20dp"
+        android:paddingRight="30dp"
+        android:gravity="center_vertical"
+        android:inputType=""/>
+
+	<ImageView
+	    android:id="@+id/list_image"
+	    android:layout_width="25dp"
+	    android:layout_height="25dp"
+	    android:layout_alignRight="@id/list_text"
+	    android:gravity="center_vertical"
+	    android:background="@drawable/delete"
+	    android:scaleType="fitXY"
+	    tools:ignore="ContentDescription" />
+
+</RelativeLayout>
