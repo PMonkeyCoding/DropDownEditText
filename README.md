@@ -4,5 +4,6 @@
 
 ### 运行图片存储在pic_running文件夾下（如下）
 https://github.com/PMonkeyCoding/DropDownEditText/blob/master/pic_running/Main.jpg
-https://github.com/PMonkeyCoding/DropDownEditText/blob/master/pic_running/Main.jpg
-https://github.com/PMonkeyCoding/DropDownEditText/blob/master/pic_running/Main.jpghttps://github.com/PMonkeyCoding/DropDownEditText/blob/master/pic_running/Main.jpg
+https://github.com/PMonkeyCoding/DropDownEditText/blob/master/pic_running/Main_list.png
+https://github.com/PMonkeyCoding/DropDownEditText/blob/master/pic_running/isDelete.jpg
+https://github.com/PMonkeyCoding/DropDownEditText/blob/master/pic_running/saveSuc.jpg
